@@ -3,14 +3,8 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/Algoritmos%20TPS-40/ConexionBD/src/com/modelo/UsuariosDAO.java</file>
-            <file>file:/D:/Algoritmos%20TPS-40/ConexionBD/src/com/vista/App.java</file>
-            <file>file:/D:/Algoritmos%20TPS-40/ConexionBD/src/com/vista/frmLogin.java</file>
-            <file>file:/D:/Algoritmos%20TPS-40/ConexionBD/src/com/modelo/Usuarios.java</file>
-            <file>file:/D:/Algoritmos%20TPS-40/ConexionBD/src/com/modelo/hash.java</file>
-            <file>file:/D:/Algoritmos%20TPS-40/ConexionBD/src/com/modelo/Conexion.java</file>
-            <file>file:/D:/Algoritmos%20TPS-40/ConexionBD/src/com/vista/frmRegistro.java</file>
-            <file>file:/D:/Algoritmos%20TPS-40/ConexionBD/src/com/vista/frmPrincipal.java</file>
+            <file>file:/C:/Repositorios_Java/ConexionBD/src/com/vista/frmClientes.java</file>
+            <file>file:/C:/Repositorios_Java/ConexionBD/src/com/vista/frmPrincipal.java</file>
         </group>
     </open-files>
 </project-private>
